@@ -1,13 +1,14 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "ArcGIS Pro Module 6 - Wrangling and Mapping Covid-19 Data (Fall 2021)"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# ArcGIS Pro Module 6 - Wrangling and Mapping Covid-19 Data (Fall 2021)
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+The following slide deck is for Module 6 of the ArcGIS Pro tutorial. This module will teach you how to do basic data cleaning and converting to prepare data to be used in ArcGIS Pro. This module will also present a real life problem of doing spatial analysis using public health data.
+
+[https://docs.google.com/presentation/d/e/2PACX-1vRiK8qy9lxauhXhKfD3ffkPLTK5qh7OGrFL1YxGw_39qjqtDcr_Cxf4kFnTKAVccg/embed?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRiK8qy9lxauhXhKfD3ffkPLTK5qh7OGrFL1YxGw_39qjqtDcr_Cxf4kFnTKAVccg/embed?start=false&loop=false&delayms=3000)
+
+Discipline: [Public Health](/discipline/public-health) \| Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)**Date Created:** 2022\-01\-12**Updated:** 2022\-01\-19
