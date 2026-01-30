@@ -1,7 +1,11 @@
 ---
 title: "ArcGIS Pro Module 6 - Wrangling and Mapping Covid-19 Data (Fall 2021)"
 layout: "home"
-description: ""
+description: "The following slide deck is for Module 6 of the ArcGIS Pro tutorial. This module will teach you how to do basic data cleaning and converting to prepare data to be used in ArcGIS Pro. This module will also present a real life problem of doing spatial analysis using public health data."
+staff:
+    - name: Marcel Fortin
+      link: https://library.utoronto.ca/staff/marcel-fortin
+created_date: 2022-01-12
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -11,4 +15,4 @@ The following slide deck is for Module 6 of the ArcGIS Pro tutorial. This module
 
 [https://docs.google.com/presentation/d/e/2PACX-1vRiK8qy9lxauhXhKfD3ffkPLTK5qh7OGrFL1YxGw_39qjqtDcr_Cxf4kFnTKAVccg/embed?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRiK8qy9lxauhXhKfD3ffkPLTK5qh7OGrFL1YxGw_39qjqtDcr_Cxf4kFnTKAVccg/embed?start=false&loop=false&delayms=3000)
 
-Discipline: [Public Health](/discipline/public-health) \| Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)**Date Created:** 2022\-01\-12**Updated:** 2022\-01\-19
+Discipline: [Public Health](https://mdl.library.utoronto.ca/discipline/public-health) | Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
