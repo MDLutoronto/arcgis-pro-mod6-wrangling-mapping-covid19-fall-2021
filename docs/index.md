@@ -5,6 +5,9 @@ description: "The following slide deck is for Module 6 of the ArcGIS Pro tutoria
 staff:
     - name: Marcel Fortin
       link: https://library.utoronto.ca/staff/marcel-fortin
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2022-01-12
 permalink: "/"  #! Remove this if not the homepage
 ---
