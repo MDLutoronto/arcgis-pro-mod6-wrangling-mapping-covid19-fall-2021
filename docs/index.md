@@ -18,4 +18,4 @@ The following slide deck is for Module 6 of the ArcGIS Pro tutorial. This module
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vRiK8qy9lxauhXhKfD3ffkPLTK5qh7OGrFL1YxGw_39qjqtDcr_Cxf4kFnTKAVccg/embed?start=false&loop=false&delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
 
-Discipline: [Public Health](https://mdl.library.utoronto.ca/discipline/public-health) | Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
